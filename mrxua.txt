@@ -6,33 +6,24 @@ ua_huawei  = 'Mozilla/5.0 (Linux; Android 8.1.0; HUAWEI Y7 PRIME 2019 Build/5887
 ua_iphone  = 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBAN/MessengerLiteForiOS;FBAV/312.0.0.42.120;FBBV/291212491;FBDV/iPhone8,4;FBMD/iPhone;FBSN/iOS;FBSV/14.4.2;FBSS/2;FBCR/;FBID/phone;FBLC/hu;FBOP/0]'
 ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.62 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
-NokiaE52-1/SymbianOS/9.1 Series60/3.0 3gpp-gba
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/054.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
-Mozilla/5.0 (S60V3; U; kau; NokiaE52-1)/UC Browser8.2.0.132/28/405/UCWEB Mobile
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/091.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.34 Mobile Safari/533.4 3gpp-gba
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/034.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
-Mozilla/5.0 (S60V3; U; en-us; NokiaE52-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.7.1.234/28/405/UCWEB Mobile
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/033.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/081.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.32 Mobile Safari/533.4 3gpp-gba
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/@version@; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba
-NokiaE52-1/SymbianOS/9.1 Series60/3.0 3gpp-gba 88XI4n5O
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba XrRhbohyvvUWmRtipEat388XI4n5O7
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/071.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba
-UCWEB/2.0 (Symbian; U; S60 V3; en-US; NokiaE52-1) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/051.018; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
-UCWEB/2.0(Symbian; U; S60 V3; en-US; NokiaE52-1) U2/1.0.0 UCBrowser/8.8.0.245 U2/1.0.0 Mobile
-UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiae52-1) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0 3gpp-gba
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba 88XI4n5O
-NokiaE52-1/UC Browser8.0.4.121/28/444/UCWEB
-Mozilla/5.0 (Java; U; en-us; nokiae52-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.6.0.199/84/352/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
-Mozilla/5.0 (S60V3; U; en-us; NokiaE52-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.6.0.199/28/355/UCWEB Mobile
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/031.012; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/033.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
-UCWEB/2.0 (Symbian; U; S60 V3; id; NokiaE52-1) U2/1.0.0 UCBrowser/9.2.0.336 U2/1.0.0 Mobile
-Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba xMTC
-Mozilla/5.0 (Java; U; en-us; nokiae52-1) UCBrowser8.4.0.159/70/352/UCWEB Mobile UNTRUSTED/1.0 3gpp-gba
-NokiaE52-1/UC Browser7.8.0.95/28/355
+ua_pixe    = 'Mozilla/5.0 (Linux; Android 10; Pixel) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_galaxy  = 'Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-G960U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.0 Chrome/96.0.4660.4 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_honor   = 'Mozilla/5.0 (Linux; Android 7.0; en-US; FRD-L19 Build/HUAWEIFRD-L19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_dna     = 'Mozilla/5.0 (Linux; U; Android 4.0; en-us; HTC6435LVW Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_motorla = 'Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4) Build/MPJ24.139-23.4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.92 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/286.0.0.48.112;]'
+ua_bberry  = 'Mozilla/5.0 (Linux; Android 8.1.0; BBB100-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_Redmi   = 'Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36[FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_Redmi   = 'Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Mobile Safari/537.36[FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_xiaomi  = 'Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_nokia   = 'nokiac3-00/5.0 (07.20) profile/midp-2.1 configuration/cldc-1.1 mozilla/5.0 applewebkit/420+ (khtml, like gecko) safari/420+'
+ua_asus    = 'Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_samsung = 'Mozilla/5.0 (Linux; Android 11; SM-A125F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_pixel   = 'Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_huawei  = 'Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_oppo    = 'Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.74 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
+ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba;
 Mozilla/5.0 (Java; U; en-us; nokiae52-1) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
 Mozilla/5.0 (S60V3; U; en-us; NokiaE52-1) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.7.1.234/28/444/UCWEB Mobile
