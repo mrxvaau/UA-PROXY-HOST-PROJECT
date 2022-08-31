@@ -1,1 +1,1 @@
-firefox
+chrome
